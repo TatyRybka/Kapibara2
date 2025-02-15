@@ -1,0 +1,40 @@
+body h1 {
+    text-align: center;
+    background-color: Sienna;
+    border: 3px solid black;
+    text-align: center;
+}
+footer p {
+    background-color: Sienna;
+    font-size: 20px;
+}
+header {
+    background-color: sienna;
+    padding: 15px;
+}
+header a {
+    border: 3px solid black;
+        border-radius: 15px;
+        padding: 5px;
+        text-decoration: none;
+        color: black;
+        margin: 25px;
+}
+header img {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+}
+main p {
+    border: 2px solid sienna;
+    border-radius: 15px;
+    padding: 5px;
+    text-align: center;
+}
+main img {
+    width: 100px;
+    height: 100px;
+}
+body {
+    text-align: center;
+}
